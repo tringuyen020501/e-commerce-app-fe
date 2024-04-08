@@ -451,7 +451,7 @@ footer .input-group-text {
 }
 
 .filter-card ul,
-.filter-card .form-check {
+.filter-card .form-check-label {
   list-style-type: none;
   font-size: 13px;
   line-height: 30px;
@@ -476,6 +476,7 @@ footer .input-group-text {
   font-weight: 600;
   color: var(--color-1c1b1b);
   margin-bottom: 20px;
+  margin-top: 15px;
 }
 
 /* Our Store end */
